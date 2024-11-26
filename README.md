@@ -1,4 +1,4 @@
-## Weather App 🌤️
+![Weather1](https://github.com/user-attachments/assets/31e4f825-fb82-4f95-a6ae-3a8741ef117a)## Weather App 🌤️
  
 A simple and elegant weather application that provides real-time weather updates for any location. Built using **HTML**, **CSS**, and **JavaScript**, this app integrates with a weather API to fetch and display accurate weather data.
 
@@ -35,8 +35,6 @@ A simple and elegant weather application that provides real-time weather updates
 
 ## Screenshots 🖼️
 Include a few screenshots of your app to showcase its design and functionality.
-
-
 ---
 
 ## Future Enhancements 🌟
