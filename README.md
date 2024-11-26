@@ -35,6 +35,9 @@ A simple and elegant weather application that provides real-time weather updates
 
 ## Screenshots 🖼️
 Include a few screenshots of your app to showcase its design and functionality.
+![Weather App Screenshot](./assets/weather1.png)
+![Weather App Screenshot](./assets/weather2.png)
+
 ---
 
 ## Future Enhancements 🌟
